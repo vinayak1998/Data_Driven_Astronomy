@@ -13,7 +13,7 @@ This repository contains my solutions to the course Data-driven Astronomy offere
 > * Write code to implement a cross-matching algorithm
 > * Understand how to time your code
 - [x] A naive cross-matcher
-- [ ] Cross matching with k-d trees
+- [x] Cross matching with k-d trees
 ### Week 3: Querying your data
 > * Describe how exoplanets are detected and what factors affect their habitability
 > * Write simple SQL statements to query data in a database
