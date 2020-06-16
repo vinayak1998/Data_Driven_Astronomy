@@ -18,7 +18,7 @@ This repository contains my solutions to the course Data-driven Astronomy offere
 > * Describe how exoplanets are detected and what factors affect their habitability
 > * Write simple SQL statements to query data in a database
 > * Write more complex SQL queries to join tables in a database
-- [ ] Writing your own SQL queries
+- [x] Writing your own SQL queries
 - [ ] Joining tables with SQL
 ### Week 4: Managing your data
 > * Explain how stars form, evolve and die
