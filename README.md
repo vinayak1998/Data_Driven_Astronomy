@@ -24,19 +24,19 @@ This repository contains my solutions to the course Data-driven Astronomy offere
 > * Explain how stars form, evolve and die
 > * Create database tables to organise your data
 > * Demonstrate how Python and SQL can be used to manage and query data
-- [ ] Setting up your own database
+- [x] Setting up your own database
 - [ ] Combining SQL with Python
 ### Week 5: Learning from data: regression
 > * Describe how astronomers calculate distances across a range of cosmological scales
 > * Write a program to analyse data using a regression classifier
 > * Analyze the accuracy of a machine learning classifier using 10-fold cross validation.
-- [ ] Building a regression classifier
+- [x] Building a regression classifier
 - [ ] Improving and evaluating our classifier
 ### Week 6: Learning from data: classification
 > * Explain what causes the wide range of galaxy morphologies we observe
 > * Write a program to do machine learning classification using decision trees
 > * Write a program to do machine learning classification using random forests
-- [ ] Exploring machine learning classification
+- [x] Exploring machine learning classification
 
 **note: if you're doing the course as well, make sure you don't copy the solutions!**
 
