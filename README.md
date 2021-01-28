@@ -43,8 +43,8 @@ This repository contains my solutions to the course Data-driven Astronomy offere
 ## References
 [Data Driven Astronomy - The University of Sydney](https://www.coursera.org/learn/data-driven-astronomy)
 
-![UoD](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042014/university_of_sydney_-_2_0.png?itok=oxqD6bPa)
-![Coursera](https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/apple-touch-icon-144x144.png)
+
+<img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042014/university_of_sydney_-_2_0.png?itok=oxqD6bPa" height="150"> <img src="https://about.coursera.org/images/logos/coursera-logo-full-rgb.png" height="150">
 
 ## Certificate
 [Link to Certificate](https://www.coursera.org/account/accomplishments/certificate/6EEMJ6NDSPQV)
